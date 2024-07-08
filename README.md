@@ -80,4 +80,4 @@ telegram-clone/
 └── README.md
 ```
 
-Note : Live url is attached in header please click or click here Telegram Clone (https://beyond-chats-assignment.vercel.app/)
+Note : Live url is attached in header please click or click here [Telegram Clone] (https://beyond-chats-assignment.vercel.app/)
